@@ -1,0 +1,1 @@
+Build the application and the distribution zip file with the build.sh file which simply runs "mvn assembly:assembly".  That will result in a zip file in the target folder that can be uploaded to Java SE CS.
