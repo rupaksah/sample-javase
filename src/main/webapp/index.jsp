@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="doc/css/cloud3.css">
 
-<title>Welcome - Oracle Application Container Cloud</title>
+<title>Java Application built from GitHub</title>
 
 </head>
 <body>
