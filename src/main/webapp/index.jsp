@@ -45,8 +45,7 @@
 
 			<div class="blueBannerHeading">
 				<h1 class="blueBannerTitleWithSubtitle">
-					<a href="index.jsp" style="color: #ffffff">Oracle Application Container
-						Cloud Service .. Demo for Github</a>
+					<a href="index.jsp" style="color: #ffffff">Demo for Github</a>
 				</h1>
 				<h2 class="blueBannerSubTitle">Easy, rapid and agile deployment
 					of any application.</h2>
