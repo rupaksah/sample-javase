@@ -5,7 +5,7 @@
   <absolute-ordering/>
 <servlet>
   <servlet-name>VolumeServlet</servlet-name>
-  <servlet-class>com.oracle.cloud.javase.servlets.VolumeServlet</servlet-class>
+  <servlet-class>com.oracle.cloud.javase.VolumeServlet</servlet-class>
 </servlet>
  <servlet-mapping>
   <servlet-name>VolumeServlet</servlet-name>
