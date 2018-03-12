@@ -15,6 +15,6 @@
 		</tr>
 	</table>
 	<input type="submit" value="Write-Into" />
-	<INPUT TYPE="RESET" value="UPDATED-Reset">
+	<INPUT TYPE="RESET" value="RESET-Reset">
 </form>
 
