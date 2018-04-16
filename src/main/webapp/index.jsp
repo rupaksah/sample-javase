@@ -2,11 +2,11 @@
 <form action="volumeServlet" method="post">
 	<table style="with: 50%">
 		<tr>
-			<td>Mount Path</td>
+			<td>Mount Path..</td>
 			<td><input type="text" name="volume_name" /></td>
 		</tr>
 		<tr>
-			<td>File Name</td>
+			<td>File Name..</td>
 			<td><input type="text" name="file_name" /></td>
 		</tr>
 		<tr>
