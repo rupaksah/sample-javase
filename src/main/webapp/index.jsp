@@ -6,7 +6,7 @@
 			<td><input type="text" name="volume_name" /></td>
 		</tr>
 		<tr>
-			<td>File Name..</td>
+			<td>File Name......</td>
 			<td><input type="text" name="file_name" /></td>
 		</tr>
 		<tr>
